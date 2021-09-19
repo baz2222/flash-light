@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FLASH LIGHT</string>
+    <string name="error_text">No camera flash available</string>
+    <string name="error_title">Error: No camera flash</string>
+    <string name="exit_message">EXIT</string>
+    <string name="on_message">Flash light is ON</string>
+    <string name="off_message">Flash light is OFF</string>
+</resources>
